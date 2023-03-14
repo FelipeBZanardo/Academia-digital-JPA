@@ -2,6 +2,8 @@
 Desafio de Projeto DIO - Aplicação Rest de uma Academia
 
 ## Mudanças feitas com base no repositório Original:
+https://github.com/cami-la/academia-digital
+
 - As datas estão no formato "yyyy-MM-dd";
 - Cascade.Refresh no relacionamento das Entidades;
 - Implementação de Delete e Update para as Entidades.
